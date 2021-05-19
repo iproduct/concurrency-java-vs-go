@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f7f8968-8f8b-4bb3-8491-8e2dd76e61f9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/reactive-streaming-demos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/reactive-streaming-demos.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/reactive-streaming-demos.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/7.0.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/modules/virtual-threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtual-threads/src/main/java/structured/StructuredConcurrency01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="12-reactive-streaming-demos" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W7LMvQDUEVC2htzOxAOYm8zdWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561472109311" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CourseDML/git/course-ml/10-ml-h2o/libs/x64/opencv_java450.dll" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15728477" />
+    <property name="project.structure.side.proportion" value="0.23772103" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Application.ReactiveStreamingDemosApp">
+    <configuration name="ProfilerClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iproduct.demos.spring.streamingdemos.client.ProfilerClient" />
+      <module name="12-reactive-streaming-demos_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iproduct.demos.spring.streamingdemos.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamingDemosApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iproduct.demos.spring.streamingdemos.ReactiveStreamingDemosApp" />
+      <module name="12-reactive-streaming-demos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iproduct.demos.spring.streamingdemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamingDemosApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reactive-streaming-demos.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.iproduct.demos.spring.streamingdemos.ReactiveStreamingDemosApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactiveStreamingDemosApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="12-reactive-streaming-demos_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.iproduct.demos.spring.streamingdemos.ReactiveStreamingDemosApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProfilerClient" />
+      <item itemvalue="Application.ReactiveStreamingDemosApp" />
+      <item itemvalue="Spring Boot.ReactiveStreamingDemosApp" />
+      <item itemvalue="Spring Boot.ReactiveStreamingDemosApp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReactiveStreamingDemosApp" />
+        <item itemvalue="Application.ProfilerClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7f8968-8f8b-4bb3-8491-8e2dd76e61f9" name="Default" comment="" />
+      <created>1527398537441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527398537441</updated>
+      <workItem from="1542320172663" duration="2171000" />
+      <workItem from="1547061173561" duration="1810000" />
+      <workItem from="1547064148794" duration="685000" />
+      <workItem from="1547472965125" duration="1080000" />
+      <workItem from="1547570144036" duration="1217000" />
+      <workItem from="1553441167552" duration="3899000" />
+      <workItem from="1553445393234" duration="18000" />
+      <workItem from="1553445697531" duration="162000" />
+      <workItem from="1553445876071" duration="13000" />
+      <workItem from="1558567469991" duration="36000" />
+      <workItem from="1561382306392" duration="1722000" />
+      <workItem from="1561658590778" duration="31000" />
+      <workItem from="1578495643672" duration="821000" />
+      <workItem from="1602006925826" duration="1632000" />
+      <workItem from="1602009230000" duration="1429000" />
+      <workItem from="1608573729057" duration="4082000" />
+      <workItem from="1608640306951" duration="607000" />
+      <workItem from="1620235610804" duration="62000" />
+      <workItem from="1620267608451" duration="614000" />
+      <workItem from="1621408994503" duration="305000" />
+      <workItem from="1621409571640" duration="1507000" />
+    </task>
+    <task id="LOCAL-00001" summary="reactive webflux demo - user management with security added">
+      <created>1527399441835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527399441835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="reactive webflux demo - user management with security added" />
+    <option name="LAST_COMMIT_MESSAGE" value="reactive webflux demo - user management with security added" />
+  </component>
+</project>
