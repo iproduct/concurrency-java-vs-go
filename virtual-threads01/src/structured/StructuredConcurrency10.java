@@ -26,4 +26,8 @@ public class StructuredConcurrency10 {
             bar();
         });
     }
+
+    public static void main(String[] args) {
+        new StructuredConcurrency10().foo();
+    }
 }
