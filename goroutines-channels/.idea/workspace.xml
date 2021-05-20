@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="531bf2e3-ea97-44d7-b9ab-21c6ac5203d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../virtual-threads-gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../virtual-threads/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../virtual-threads01/src/structured/StructuredConcurrency10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-threads01/src/structured/StructuredConcurrency10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-threads/src/structured/StructuredConcurrency09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-threads/src/structured/StructuredConcurrency09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
